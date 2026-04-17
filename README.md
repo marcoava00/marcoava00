@@ -7,7 +7,7 @@ One thing that drives me a lot: finding ways to automate repetitive processes. L
 ## 🔍 What I've explored so far
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 - Java — OOP, file I/O, data structures
 - Logic design & digital circuits
