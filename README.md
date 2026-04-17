@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Marco 👋
 
-<!--
-**marcoava00/marcoava00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a curious and passionate computer science enthusiast, always exploring new areas and discovering what this field has to offer. I love building projects in my free time — it keeps me learning, challenged, and genuinely having fun.
 
-Here are some ideas to get you started:
+One thing that drives me a lot: finding ways to automate repetitive processes. Less alienating busywork, more creative thinking and free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What I've explored so far
+- Java — OOP, file I/O, data structures
+- Logic design & digital circuits
+
+## 📂 Why this GitHub?
+Mainly as a personal archive of everything I build — a place to look back and see how far I've come. If something here is useful or interesting to you, that's a bonus. Feel free to explore!
+
+## 📫 Get in touch
+Open an issue or start a discussion on any repo — always happy to chat.
